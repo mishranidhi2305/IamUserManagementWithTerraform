@@ -1,3 +1,1 @@
-# variable "user_details" {
-
-# }
+We can create variables, and use in resource blocks
